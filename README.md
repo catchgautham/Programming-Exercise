@@ -37,4 +37,4 @@ File -> Import -> General -> Projects from Folder or Archive
 Right-click project -> Run as -> Run on server -> Apache Tomcat 9.0
 
 ### Technologies Used  
-MySQL, Servlet, SQL, AJAX, JQuery, JSP
+MySQL Database, Apache Tomcat, Servlet, SQL, AJAX, JQuery, JSP
