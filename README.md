@@ -7,7 +7,7 @@ https://youtu.be/C0asz23C-3k (Time 1.14 minutes)
 Merge the two xml files into a single file and load the consolidated file into MySQL DB  
 Task1.java has two methods: mergeXMLFiles() and loadXMLintoDB().
 
-### Steps
+### Steps To Execute
 1. Download the folder 'Task1'
 2. Import into Eclipse IDE  
 File -> Import -> General -> Projects from Folder or Archive
@@ -26,7 +26,7 @@ Java DOM Parser, Transformer, JDBC
 ## Task 2: Web Application
 Web application that accepts some keywords from the user for each db field and a corresponding action servlet that searches the persondata db table, and displays the matching record on to the user screen.
 
-### Steps
+### Steps To Execute
 1. Download the folder 'Task2'
 2. Import into Eclipse IDE  
 File -> Import -> General -> Projects from Folder or Archive
