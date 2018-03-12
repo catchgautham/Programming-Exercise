@@ -1,9 +1,9 @@
 # Programming-Exercise
 
-## Short Demo (1.14 mins)
-https://youtu.be/C0asz23C-3k
+## Short Demo
+https://youtu.be/C0asz23C-3k (Time 1.14 minutes) 
 
-## Task 1
+## Task 1: Data Processing
 Merge the two xml files into a single file and load the consolidated file into MySQL DB  
 Task1.java has two methods: mergeXMLFiles() and loadXMLintoDB().
 
@@ -23,8 +23,9 @@ Output file: persondata.xml
 ### Technologies Used
 Java DOM Parser, Transformer, JDBC
 
-## Task 2
+## Task 2: Web Application
 Web application that accepts some keywords from the user for each db field and a corresponding action servlet that searches the persondata db table, and displays the matching record on to the user screen.
+
 ### Steps
 1. Download the folder 'Task2'
 2. Import into Eclipse IDE  
